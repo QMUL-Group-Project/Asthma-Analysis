@@ -1,4 +1,4 @@
-(ns asthma.readcsv
+(ns asthma.dataconvert
   (:gen-class))
 
 (defn -main
